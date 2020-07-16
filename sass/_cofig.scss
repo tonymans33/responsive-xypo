@@ -1,0 +1,18 @@
+$heading-color : #252525;
+$p-color : #515151;
+$heading-font:alegreyaHead;
+$p-font: alegreyaPar;
+$primary-color :#f67c92;
+
+@font-face {
+  src: url("../fonts/Alegreya/Alegreya-Bold.ttf");
+  font-family: alegreyaHead;
+}
+@font-face {
+  src: url("../fonts/Alegreya/Alegreya-Regular.ttf");
+  font-family: alegreyaPar;
+}
+
+@mixin ease{
+  transition: all 0.4s ease-out;
+}

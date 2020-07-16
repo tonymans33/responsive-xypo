@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0abf100-f5e2-4311-a950-ede80ba228c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e694FYJ7GoIlYZar4qQZ8JB6CB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../laravel/cms" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0abf100-f5e2-4311-a950-ede80ba228c8" name="Default Changelist" comment="" />
+      <created>1593630982771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593630982771</updated>
+      <workItem from="1593630984220" duration="8564000" />
+      <workItem from="1593679204236" duration="5466000" />
+      <workItem from="1593767389741" duration="633000" />
+      <workItem from="1593806231513" duration="606000" />
+      <workItem from="1594799521242" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="210" key="EditFileWatcherDialog" timestamp="1593631273950">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="405" y="210" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1593631273950" />
+    <state x="487" y="81" key="FileChooserDialogImpl" timestamp="1593768568450">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="487" y="81" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1593768568450" />
+  </component>
+</project>
