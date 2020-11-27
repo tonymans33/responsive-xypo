@@ -175,7 +175,8 @@ header{
 //features section
 .features{
   margin-top: 5rem;
-  margin-left: 13rem;
+  margin-left:50%;
+  transition: translateX(-50%);
 
   .features-group{
     display: grid;
